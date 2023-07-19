@@ -97,7 +97,7 @@ This repository contains to sample implementations of cards blocks
 * Dynamic Cards (content retrieved from an API): https://github.com/andreituicu/franklin-jsx-like/blob/main/blocks/dynamic-cards/dynamic-cards.js
 * Static Cards (content directly in word): https://github.com/andreituicu/franklin-jsx-like/blob/main/blocks/static-cards/static-cards.js
 
-## More Real Project examples
+## Real Project examples
 
 * https://github.com/hlxsites/moleculardevices/blob/b785b6f/blocks/ordering-options/ordering-options.js#L340-L375
 * https://github.com/hlxsites/moleculardevices/blob/a6db5db/blocks/blog-teaser/blog-teaser.js#L9-L48
