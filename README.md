@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Franklin JSX-Like (Dom Helpers)
+Dom Helpers inspired by React JSX to make the Franklin JS code more concise, easier to write, understand and review.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--franklin-jsx-like--andreituicu.hlx.page/
+- Live: https://main--franklin-jsx-like--andreituicu.hlx.live/
 
 ## Installation
 
