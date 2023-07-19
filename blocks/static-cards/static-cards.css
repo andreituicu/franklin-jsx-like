@@ -1,4 +1,4 @@
-.cards > ul {
+.static-cards > ul {
   list-style: none;
   margin: 0;
   padding: 0;
@@ -7,24 +7,24 @@
   grid-gap: 16px;
 }
 
-.cards > ul > li {
+.static-cards > ul > li {
   border: 1px solid var(--highlight-background-color);
   background-color: var(--background-color)
 }
 
-.cards .cards-card-body {
+.static-cards .cards-card-body {
   margin: 16px;
 }
 
-.cards .cards-card-image {
+.static-cards .cards-card-image {
   line-height: 0;
 }
 
-.cards .cards-card-body > *:first-child {
+.static-cards .cards-card-body > *:first-child {
   margin-top: 0;
 }
 
-.cards > ul > li img {
+.static-cards > ul > li img {
   width: 100%;
   aspect-ratio: 4 / 3;
   object-fit: cover;

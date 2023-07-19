@@ -1,0 +1,44 @@
+.dynamic-cards > ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 16px;
+}
+
+.dynamic-cards > ul > li {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--highlight-background-color);
+  background-color: var(--background-color)
+}
+
+.dynamic-cards .cards-card-body {
+  margin: 16px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.dynamic-cards .cards-card-image {
+  line-height: 0;
+}
+
+.dynamic-cards .cards-card-body > *:first-child {
+  margin-top: 0;
+}
+
+.dynamic-cards .cards-card-body > button {
+  display: block;
+  margin: 0;
+  margin-top: auto;
+  width: 135px;
+  align-self: center;
+}
+
+.dynamic-cards > ul > li img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
