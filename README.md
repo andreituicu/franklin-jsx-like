@@ -99,8 +99,13 @@ This repository contains to sample implementations of cards blocks
 
 ## Real Project examples
 
+### Molecular Devices
 * https://github.com/hlxsites/moleculardevices/blob/b785b6f/blocks/ordering-options/ordering-options.js#L340-L375
 * https://github.com/hlxsites/moleculardevices/blob/a6db5db/blocks/blog-teaser/blog-teaser.js#L9-L48
 * https://github.com/hlxsites/moleculardevices/blob/36b8ba1/blocks/related-assay-data/related-assay-data.js#L32-L42
-* https://github.com/hlxsites/durysta/blob/2b527dd/blocks/isi/isi.js#L52-L64
+
+### Zemax
 * https://github.com/hlxsites/zemax/blob/a518582/blocks/user-licenses/user-licenses.js#L319-L353
+
+### Fieitas
+https://github.com/fieitas/website/blob/main/blocks/covid-19-accordion/covid-19-accordion.js
