@@ -109,3 +109,6 @@ This repository contains to sample implementations of cards blocks
 
 ### Fieitas
 https://github.com/fieitas/website/blob/main/blocks/covid-19-accordion/covid-19-accordion.js
+
+### Danaher Lifesciences
+https://github.com/hlxsites/danaher-ls-aem/blob/c0f1241/blocks/header/header.js#L267-L303
