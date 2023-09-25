@@ -98,6 +98,8 @@ This repository contains to sample implementations of cards blocks
 * Static Cards (content directly in word): https://github.com/andreituicu/franklin-jsx-like/blob/main/blocks/static-cards/static-cards.js
 
 ## Real Project examples
+Would you like to showcase a nice example you built in your project?
+Please open a PR with the list below!
 
 ### Molecular Devices
 * https://github.com/hlxsites/moleculardevices/blob/b785b6f/blocks/ordering-options/ordering-options.js#L340-L375
@@ -112,3 +114,6 @@ https://github.com/fieitas/website/blob/main/blocks/covid-19-accordion/covid-19-
 
 ### Danaher Lifesciences
 https://github.com/hlxsites/danaher-ls-aem/blob/c0f1241/blocks/header/header.js#L267-L303
+
+### Walgreens
+https://github.com/hlxsites/walgreens/blob/ef84316/blocks/cards/cards.js#L61-L82
