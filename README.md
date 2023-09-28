@@ -116,4 +116,5 @@ https://github.com/fieitas/website/blob/main/blocks/covid-19-accordion/covid-19-
 https://github.com/hlxsites/danaher-ls-aem/blob/c0f1241/blocks/header/header.js#L267-L303
 
 ### Walgreens
-https://github.com/hlxsites/walgreens/blob/ef84316/blocks/cards/cards.js#L61-L82
+https://github.com/hlxsites/walgreens/blob/48bb2d4/blocks/cards/cards.js#L62-L83
+https://github.com/hlxsites/walgreens/blob/48bb2d4/blocks/categories/categories.js#L16-L43
