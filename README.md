@@ -118,3 +118,4 @@ https://github.com/hlxsites/danaher-ls-aem/blob/c0f1241/blocks/header/header.js#
 ### Walgreens
 https://github.com/hlxsites/walgreens/blob/48bb2d4/blocks/cards/cards.js#L62-L83
 https://github.com/hlxsites/walgreens/blob/48bb2d4/blocks/categories/categories.js#L16-L43
+
