@@ -49,7 +49,7 @@ export function domEl(tag, ...items) {
     items = rest;
 
     Object.entries(attributes).forEach(([key, value]) => {
-      if (!key.startsWith('on')) {
+      if (!key.toLowerCase().startsWith('on')) {
         element.setAttribute(key, Array.isArray(value) ? value.join(' ') : value);
       } else {
         element.addEventListener(key.substring(2).toLowerCase(), value);
